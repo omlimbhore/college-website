@@ -1,0 +1,40 @@
+
+body{
+    margin: 20px;
+    background-image: linear-gradient(red,blue);
+}
+.img{
+    background-image: url("./student.jpg");
+    height: 80vh;
+    width: 100%;
+    background-size: 100vw 100vh;
+    border-radius: 20px;
+}
+
+.navigation{
+    font-size: large;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.logo2{
+    display: block;
+    margin: auto;
+}
+.main{
+    margin-top: 20px;
+}
+.display-4{
+    font-size: 60px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(red, blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.lead{
+    font-size: 50px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(red, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
